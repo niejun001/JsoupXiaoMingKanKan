@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">小明看看</string>
+    <string name="test"><u>说明</u></string>
+    <string name="play_pic">img</string>
+    <string name="play_text">text</string>
+    <string name="play_down">浏览器打开</string>
+    <string name="play_play">本地播放</string>
+    <string name="main_video_pic">video</string>
+    <string name="main_video_text">视频</string>
+    <string name="main_pic_pic">pic</string>
+    <string name="main_pic_text">图片</string>
+    <string name="main_form_pic">form</string>
+    <string name="main_form_text">小说</string>
+    <string name="main_mine_pic">mine</string>
+    <string name="main_mine_text">我的</string>
+    <string name="show_pic_text">测试</string>
+    <string name="mine_pic">head</string>
+    <string name="mine_name">小明看看</string>
+    <string name="mine_code">版本号：1.0.0</string>
+    <string name="list_item">item 1</string>
+    <string name="pic_des">图片描述</string>
+</resources>
